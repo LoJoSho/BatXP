@@ -1,0 +1,11 @@
+name: BatsXP
+version: ${project.version}
+main: me.lojosho.batsxp.BatsXP
+api-version: 1.16
+authors: [LoJoSho]
+description: Gives Bats XP
+commands:
+  BatXP:
+permissions:
+  BatXP.reload:
+    default: op
